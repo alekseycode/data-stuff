@@ -1,0 +1,16 @@
+You are a full-stack software engineer.
+I would like to build an NBA game data tracker website.
+Here are the requirements:
+1. C# .NET Core backend.
+2. Vite React vanilla javascript frontend.
+3. SQL Server database.
+4. Tailwind for styles.
+5. Clean, organized code, do not overengineer.
+
+Task:
+Please build me a professional looking website that tracks NBA teams and their players and their game data.
+The user should be able to click on teams and track live statistics for each player.
+I also want a chatbot that the user can interact with with that explains how to use the application.
+Use react router for page navigation.
+I will provide the Graph API endpoint details to connect the application to.
+Concisely explain each step in a markdown file.

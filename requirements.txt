@@ -1,0 +1,5 @@
+1. On a teams details page, display the teams players in a left-side section.
+2. Display the selected team's schedule in a right-side section.
+3. Allow the user to open a game and record a simple play-by-play scorecard.
+4. On the play-by-play screen, display the team and players in a table format.
+5. Provide a 2-point button and a 3-point button so the user can record scoring events for players.
