@@ -6,6 +6,7 @@ import PlayoffsPage from './pages/PlayoffsPage'
 import TeamPage from './pages/TeamPage'
 import GamesPage from './pages/GamesPage'
 import GameDetailPage from './pages/GameDetailPage'
+import ScorecardPage from './pages/ScorecardPage'
 
 export default function App() {
   return (
@@ -20,6 +21,7 @@ export default function App() {
           <Route path="/playoffs/:id" element={<TeamPage />} />
           <Route path="/games" element={<GamesPage />} />
           <Route path="/games/:id" element={<GameDetailPage />} />
+          <Route path="/scorecard/:gameId" element={<ScorecardPage />} />
         </Routes>
       </main>
       <ChatBot />
